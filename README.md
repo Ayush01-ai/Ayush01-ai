@@ -14,10 +14,8 @@
   <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
   <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="visualstudio logo"  />
 </div>
-
-
 ###
- 
+
 ---
 
 ## 🔹 About Me
@@ -25,7 +23,6 @@
 I am a technology professional with hands-on experience in **network engineering** and **security operations**. I have worked on maintaining secure infrastructures, monitoring systems, and handling real-time security incidents.
 
 Currently, I am expanding my expertise in **AI tools, automation, and MCP (Model Context Protocol) tools development**, focusing on integrating AI into real-world workflows.
-
 ---
 
 ## 🔹 Experience
@@ -41,7 +38,6 @@ Currently, I am expanding my expertise in **AI tools, automation, and MCP (Model
 - Investigated incidents like brute force attacks, phishing, and malware activity
 - Performed log analysis and threat detection
 - Followed incident response procedures
-
 ---
 
 ## 🔹 Skills
@@ -68,7 +64,6 @@ Currently, I am expanding my expertise in **AI tools, automation, and MCP (Model
 - MCP Tools Development
 - Workflow Automation
 - Prompt Engineering
-
 ---
 
 ## 🔹 Projects
@@ -79,7 +74,6 @@ Currently, I am expanding my expertise in **AI tools, automation, and MCP (Model
 - 🔸 Brute Force Detection Simulation
 - 🔸 MCP Tool (AI-based workflow automation)
 - 🔸 Network Monitoring Setup
-
 ---
 
 ## 🔹 Currently Learning
@@ -101,8 +95,8 @@ Currently, I am expanding my expertise in **AI tools, automation, and MCP (Model
 
 ## 🔹 Connect With Me
 
-- 💼 LinkedIn: *(Add your link)*
-- 📧 Email: *(Add your email)*
+- 💼 LinkedIn: *https://www.linkedin.com/in/ayushsingh9616/*
+- 📧 Email: *er.ayushsingh.dev@gmail.com*
 
 ---
 
